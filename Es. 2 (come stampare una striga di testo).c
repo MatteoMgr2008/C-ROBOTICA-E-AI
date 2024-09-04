@@ -1,8 +1,6 @@
 #include <stdio.h>
-int main()
 
-{
-// printf() displays the string inside quotation
-printf("Ciao come va la vita ?");
-return 0;
+int main() {
+    printf("Ciao come va la vita ?"); // printf() stampa il testo presente all'interno delle virgolette, nonchè la stringa di testo
+    return 0;
 }
